@@ -1,12 +1,31 @@
-# Electron Boilerplate
+# Electron App
 
 <br>
 
-<p>
-  Electron Boilerplate uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> and <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.
-</p>
+## Introduction
 
-<br>
+This project is the sample of basic architecture setup. you can use this folder structure and boilerplate to develop scalable desktop apps. 
+
+
+## Electron App uses
+
+- <a href="https://electron.atom.io/">Electron</a>
+- <a href="https://facebook.github.io/react/">React</a>
+- <a href="https://github.com/reactjs/react-router">React Router</a>
+- <a href="https://webpack.js.org/">Webpack</a>
+- <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>
+
+
+## Prerequisites
+
+Download and Install NodeJs using the below link please make sure to download Node version 18 or higher than 18.
+
+https://nodejs.org/en/download/package-manager
+
+Download and Instal GIT using the below link
+
+https://git-scm.com/downloads
+
 
 ## Install
 
@@ -33,3 +52,4 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
+
